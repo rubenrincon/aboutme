@@ -1,4 +1,4 @@
-# Ruben’s blog post
+# Ruben’s blog posts
 This is a list of different blogpost I have authored through the last few years. I have been mostly writting about Dropbox and HelloSign showing how to implement certain workflows using JavaScript.
 
 **Video Tutorial: Implementing user onboarding workflows with NodeJS**
