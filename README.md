@@ -8,7 +8,7 @@ This is a list of different blogpost I have authored through the last few years.
 Learn how to implement an onboarding workflow with eSignature using Node.JS and the HelloSign API
 
 [**Embed a CLA Signing Page Using NodeJS with the HelloSign and GitHub APIs**](https://www.hellosign.com/blog/embed-a-cla-signing-page-using-nodejs-with-the-hellosign-and-github-apis)
-February 2021
+*February 2021*
 Get your CLAs signed easier using the HelloSign API and GitHub API
 
 [Sample: Embedded Requesting Workflows Using the HelloSign and Dropbox APIs](https://dropbox.tech/developers/sample--embedded-requesting-workflows-using-the-hellosign-and-dr)
@@ -28,7 +28,7 @@ Technical blog post on Dropbox's get_thumbnail API and when to use it. Includes 
 In this blog post we show you how to implement an OAuth authorization code grant flow using Node.JS and Dropbox JavaScript
 
 [Photo gallery tutorial with tags using the File Properties API](https://dropbox.tech/developers/photo-gallery-tutorial-with-tags)
-September 2018
+*September 2018*
 Tutorial using the Azure Face Recognition API, the DBX File Properties API, and the DBX JavaScript SDK to build a photo gallery with tags
 
 [Node Photo Gallery Tutorial](https://dropbox.tech/developers/node-photo-gallery-tutorial)
