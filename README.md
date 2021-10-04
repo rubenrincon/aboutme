@@ -3,7 +3,7 @@ This is a list of different blogpost I have authored through the last few years.
 
 **Video Tutorial: Implementing user onboarding workflows with NodeJS**
 *July 2021*
-****[Part 1](https://www.hellosign.com/blog/video-tutorial-implementing-user-onboarding-workflows-with-nodejs-and-the-hellosign-api-part-1)
+[Part 1](https://www.hellosign.com/blog/video-tutorial-implementing-user-onboarding-workflows-with-nodejs-and-the-hellosign-api-part-1)
 [Part 2](https://www.hellosign.com/blog/video-tutorial-implementing-user-onboarding-workflows-with-nodejs-and-the-hellosign-api-part-2)
 Learn how to implement an onboarding workflow with eSignature using Node.JS and the HelloSign API
 
